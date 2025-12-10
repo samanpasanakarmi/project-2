@@ -1,5 +1,5 @@
 node_modules
-dist
+data
+src/uploads
 .env
-.vscode
 .DS_Store
